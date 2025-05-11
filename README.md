@@ -1,7 +1,7 @@
 # Explainable Fraud Alert System
 
 ## Overview
-The Explainable Fraud Alert System uses machine learning algorithms to detect fraudulent transactions in real-time, providing clear and understandable explanations for flagged transactions. This system integrates Isolation Forest and Autoencoder models with a Large Language Model (LLM) for generating human-readable explanations. The solution aims to enhance customer trust, improve fraud detection accuracy, and meet regulatory compliance by offering transparent fraud alerts.
+The Explainable Fraud Alert System uses machine learning algorithms to detect fraudulent transactions in real-time, providing clear and understandable explanations for flagged transactions. This system integrates Isolation Forest model with a Large Language Model (LLM) for generating human-readable explanations. The solution aims to enhance customer trust, improve fraud detection accuracy, and meet regulatory compliance by offering transparent fraud alerts.
 
 ## Contents
 
@@ -9,7 +9,7 @@ The Explainable Fraud Alert System uses machine learning algorithms to detect fr
 A brief overview of the project, the algorithms used, and the problem solved.
 
 ### 2. The Code
-A Python-based implementation that combines Isolation Forest and Autoencoder models to detect anomalies and fraudulent transactions. It also includes an LLM-based explanation engine to provide clarity on why a transaction was flagged.
+A Python-based implementation that combines Isolation Forest model to detect anomalies and fraudulent transactions. It also includes an LLM-based explanation engine to provide clarity on why a transaction was flagged.
 
 ### 3. Output
 The output of the system, showcasing detected fraudulent transactions and the corresponding explanations for each flagged transaction.
