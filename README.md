@@ -45,6 +45,7 @@ A PowerPoint presentation summarizing the problem, methodology, and business imp
 
 #### Dataset
 Publicly available credit card transaction dataset.
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
 
 #### Features
 - `V1–V28`: Anonymized principal components  
