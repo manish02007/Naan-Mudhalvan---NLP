@@ -21,7 +21,9 @@ A PowerPoint presentation summarizing the problem, methodology, and business imp
 
 ### ✅ Prerequisites
 
-- **Operating System:** Linux, macOS, or Windows  
+- **Operating System:** Linux, macOS, or Windows
+> **Disclaimer**  
+> If you are using **Linux** or **macOS**, it is recommended to perform the following steps within a **virtual environment** to avoid conflicts with system-wide packages.
 - **Python Version:** 3.8 or higher  
 - **Dependencies:** Listed in `requirements.txt`  
 - **Tools Recommended:** VSCode, Jupyter Notebook, PyCharm  
